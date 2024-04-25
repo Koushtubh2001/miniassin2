@@ -1,8 +1,5 @@
 package com.example.demo.ControllerTest;
 
-import com.example.demo.Controller.SubjectController;
-import com.example.demo.Models.Subject;
-import com.example.demo.Services.SubjectService;
 import org.junit.jupiter.api.Test;
 import org.mockito.InjectMocks;
 import org.mockito.Mock;

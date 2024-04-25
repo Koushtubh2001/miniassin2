@@ -1,10 +1,5 @@
 package com.example.demo.ControllerTest;
 
-import com.example.demo.Controller.StudentController;
-import com.example.demo.DTO.OnboardStudentRequest;
-import com.example.demo.Models.Student;
-import com.example.demo.Models.Subject;
-import com.example.demo.Services.StudentService;
 import jakarta.validation.Validation;
 import jakarta.validation.Validator;
 import jakarta.validation.ValidatorFactory;

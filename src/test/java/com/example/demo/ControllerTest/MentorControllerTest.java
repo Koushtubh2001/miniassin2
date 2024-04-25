@@ -1,9 +1,6 @@
 package com.example.demo.ControllerTest;
 
 
-import com.example.demo.Controller.MentorController;
-import com.example.demo.Models.Mentor;
-import com.example.demo.Repository.MentorRepository;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.mockito.InjectMocks;
